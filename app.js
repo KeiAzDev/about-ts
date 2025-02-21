@@ -1,1 +1,5 @@
-console.log('here is note!');
+var individual = {
+    name: 'yota',
+    age: 30,
+};
+console.log(individual);
