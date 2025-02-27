@@ -21,3 +21,4 @@ console.log(combinedNames);
 
 const combinedStringAges = combine('30', '26', 'as-number');
 console.log(combinedStringAges);
+
